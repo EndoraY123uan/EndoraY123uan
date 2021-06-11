@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndoraY123uan&count_private=true&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndoraY123uan&layout=compact&langs_count=10) 
+
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1664?logoColor=white%26project=%26recentMS=0%26showProject=false) 
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EndoraY123uan)
